@@ -3,6 +3,7 @@ ICurl
 
 Simple Java/Android Curl Request Maker
 
+Blog Post: http://moshx.com/?p=14
 
 
 Sample
