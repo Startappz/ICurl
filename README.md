@@ -5,6 +5,13 @@ Simple Java/Android Curl Request Maker
 
 Blog Post: http://moshx.com/?p=14
 
+Download
+========
+Please check Releases page to download the jar file
+https://github.com/MoshDev/ICurl/releases
+
+or clone the repository and build it by your self
+
 
 Sample
 ======
